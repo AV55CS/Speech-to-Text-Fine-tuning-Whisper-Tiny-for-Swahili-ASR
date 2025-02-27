@@ -92,6 +92,12 @@ Despite the models showing high error rates, the project provides valuable insig
    - Use the evaluation code to assess model performance
    - Test on specific audio samples with the testing code
 
+## Implementation Note
+
+This notebook has been implemented on Kaggle and you can easily train your model for 5 epochs using the provided code. If you want to access the trained model or have questions about implementation, you can contact me at zda23m011@iitmz.ac.in.
+
+Further experiments are ongoing for Whisper Tiny with larger epoch counts (e.g., 100 epochs), and results will be updated soon.
+
 ## Future Work
 
 1. Experiment with larger model variants (Small, Medium)
@@ -109,12 +115,11 @@ Despite the models showing high error rates, the project provides valuable insig
 If you use this code in your research, please cite:
 
 ```
-@misc{sharma2024swahiliasr,
+@misc{sharma2025swahiliasr,
   author = {Sharma, Avinash Kumar},
   title = {Swahili Speech Recognition - Whisper Fine-tuning},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/swahili-asr}}
+  journal = {GitHub repository}
 }
 ```
