@@ -94,7 +94,7 @@ Despite the models showing high error rates, the project provides valuable insig
 
 ## Implementation Note
 
-This notebook has been implemented on Kaggle and you can easily train your model for 5 epochs using the provided code. If you want to access the trained model or have questions about implementation, you can contact me at zda23m011@iitmz.ac.in.
+This notebook has been implemented on Kaggle with audio data at path `/kaggle/input/preprocessor/`. The dataset and experiment environment are available on Kaggle. If you want to access the trained model, dataset, or have questions about the implementation, please contact me at zda23m011@iitmz.ac.in and the resources will be shared.
 
 Further experiments are ongoing for Whisper Tiny with larger epoch counts (e.g., 100 epochs), and results will be updated soon.
 
