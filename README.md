@@ -115,11 +115,12 @@ Further experiments are ongoing for Whisper Tiny with larger epoch counts (e.g.,
 If you use this code in your research, please cite:
 
 ```
-@misc{sharma2025swahiliasr,
-  author = {Sharma, Avinash Kumar},
-  title = {Swahili Speech Recognition - Whisper Fine-tuning},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository}
+@inproceedings{
+sharma2025finetuning,
+title={Fine-tuning Whisper Tiny for Swahili {ASR}: Challenges and Recommendations for Low-Resource Speech Recognition},
+author={AVINASH KUMAR SHARMA and Manas R Pandya and Arpit Shukla},
+booktitle={6th Workshop on African Natural Language Processing},
+year={2025},
+url={https://openreview.net/forum?id=QZFoSp5JDL}
 }
 ```
